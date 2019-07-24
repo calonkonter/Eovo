@@ -13,7 +13,7 @@ HOW TO USE: <br>
 #apt install git<br>
 #git clone https://github.com/4nzeL4/Eovo.gitt<br>
 #cd Eovo<br>
-#php svd.php
+#php eovo.php
 <br>
 <br>
 Untuk Password Silahkan tonton video saya di 
