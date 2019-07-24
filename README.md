@@ -11,6 +11,6 @@ HOW TO USE: <br>
 
 #apt install  php<br>
 #apt install git<br>
-#git clone https://github.com/4nzeL4/SVideo-bot.git<br>
-#cd SVideo-bot-master<br>
+#git clone https://github.com/4nzeL4/Eovo.gitt<br>
+#cd Eovo<br>
 #php svd.php
