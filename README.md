@@ -14,3 +14,8 @@ HOW TO USE: <br>
 #git clone https://github.com/4nzeL4/Eovo.gitt<br>
 #cd Eovo<br>
 #php svd.php
+<br>
+<br>
+Untuk Password Silahkan tonton video saya di 
+
+
