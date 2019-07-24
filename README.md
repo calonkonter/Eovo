@@ -1,4 +1,4 @@
-# SVideo-bot
+# Eovo
 
 
 bot ini terdapat 2 Tipe <br>
